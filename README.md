@@ -1,7 +1,7 @@
 Opa! Me chamo Leonardo Oliveira.
 
-No momento estou graduando Sistemas de Informação, e focado em criar soluções web e desenvolvimento de sistemas para automação pessoal/ comercial ou corporativas.
-Tenho forte interesse em desenvolvimento Full-Stack, construção de APIs e modernização de interfaces, a tecnologia sempre foi meu hooby, e essa área sempre me deu uma gama de idéias.
+No momento estou graduando Sistemas de Informação, e focado em criar soluções web e desenvolvimento de sistemas para automações pessoal/ comercial ou corporativas.
+Tenho forte interesse em desenvolvimento Full-Stack, sempre me interessei muito por tecnologia, e estudar mais a fundo essa área me dá uma gama de idéias que acredito que serão muito prudutivas.
 
  Meus conhecimentos atuais
 
