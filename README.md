@@ -6,16 +6,15 @@ Tenho forte interesse em desenvolvimento Full-Stack, sempre me interessei muito 
  Meus conhecimentos atuais
 
 <p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
+  <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js" />
+  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
 </p>
-
 Minhas Estatísticas
 
 <p align="left">
