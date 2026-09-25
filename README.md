@@ -18,6 +18,7 @@ Tenho forte interesse em desenvolvimento Full-Stack, construção de APIs e mode
 Minhas Estatísticas
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=leoxsantos&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoxsantos&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=leoxsantos&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoxsantos&layout=compact&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leoxsantos&theme=radical&hide_border=true" height="150" />
 </p>
